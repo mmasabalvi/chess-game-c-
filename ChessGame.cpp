@@ -659,6 +659,7 @@ void Move(char board[][8], int row, char a, int b, char x)
 
 	Dispboard(board, row);
 	}
-	
+
+	//please help me completing the game
 	
 }
